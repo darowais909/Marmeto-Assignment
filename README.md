@@ -1,19 +1,31 @@
-Overview
+# Marmeto-L2-Assignment 
 
-This project is a simple product page with responsive design, implemented using HTML, CSS, and JavaScript. It allows users to view a product, select variants, and add the product to their cart.
+## Overview
 
-Features
-Product Image
-Thumbnail images
-Product vendor
-Product title
-Price
-Compare at price
-Percentage off (calculated using JavaScript)
-Color variant selector
-Size selector
-Quantity selector
-Add to cart button
-Add to cart button message
-Description
-Responsiv
+This is a simple product page with responsive design, implemented using HTML, CSS, and JavaScript. It allow users to view, select and add the product to their cart.
+
+
+
+
+
+
+## Features
+
+- Product Image
+- Product Title
+- Product Price
+- Different Size Selector
+- Different Colour Selector
+- Add to Cart
+## Live Demo
+
+Click here for live Demo [Click](https://darowais909.github.io/Marmeto-L2-Assignment/)
+
+## Responsive Design
+This webpage is designed to be responsive across different devices
+- Mobile Screen: Up to 767px
+- Tablet Screen: 768px to 1024px
+- Desktop Screen: Above 1025px
+
+## Developer Message
+Made with Love by Owayas for Marmeto
